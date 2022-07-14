@@ -151,7 +151,11 @@ Spring Cloud 爱好者,现就任于鲜易供应链平台研发部.
 
 ![项目架构图](http://img.paascloud.net/paascloud/doc/paascloud-project.png)
 
-
+### 环境说明
+-- 开发、测试
+使用本地环境
+-- 部署
+使用阿里云环境
 
 
 
